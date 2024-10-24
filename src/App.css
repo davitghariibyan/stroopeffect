@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(21,104,221);
+}
+.container{
+  margin-top: 125px;
+  min-width: 300px;
+  min-height: 300px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 15px;
+  text-align: center;
+}
+.container h1{
+  font-family: "DynaPuff", system-ui;
+  font-weight: 400;
+}
+.btn{
+  background-color:rgb(21,104,221) ;
+  color: white;
+  font-family: "Dynapuff", system-ui;
+  padding:10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: rgb(169,38,38);
+  transition: 0.3s ease-in-out;
+}
+h3 span{
+  color: blue;
+}
+.block{
+  display: none;
+}
+#item1{
+  color: green;
+}
+.game{
+  text-align: center;
+  font-family: "Dynapuff", system-ui;
+}
+.game button{
+  margin: 10px;
+}
