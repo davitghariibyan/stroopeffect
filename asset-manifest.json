@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stroopeffect/static/css/main.1e2a192c.css",
+    "main.js": "/stroopeffect/static/js/main.f098c927.js",
+    "static/js/453.2b0627e5.chunk.js": "/stroopeffect/static/js/453.2b0627e5.chunk.js",
+    "index.html": "/stroopeffect/index.html",
+    "main.1e2a192c.css.map": "/stroopeffect/static/css/main.1e2a192c.css.map",
+    "main.f098c927.js.map": "/stroopeffect/static/js/main.f098c927.js.map",
+    "453.2b0627e5.chunk.js.map": "/stroopeffect/static/js/453.2b0627e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e2a192c.css",
+    "static/js/main.f098c927.js"
+  ]
+}
